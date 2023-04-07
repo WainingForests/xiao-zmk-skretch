@@ -1,2 +1,2 @@
-config SHIELD_BAT43
+config SHIELD_SKRETCH
     def_bool $(shields_list_contains,skretch)
