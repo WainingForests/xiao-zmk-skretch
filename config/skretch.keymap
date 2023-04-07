@@ -32,6 +32,8 @@
         };
         
         raise_layer {
+        
+        bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp N0  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
