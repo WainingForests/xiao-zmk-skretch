@@ -1,6 +1,6 @@
-if SHIELD_BAT43
+if SHIELD_skretch
 
 config ZMK_KEYBOARD_NAME
-    default "Skretch"
+    default "Skretch_xiao"
 
 endif
