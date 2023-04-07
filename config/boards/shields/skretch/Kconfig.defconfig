@@ -1,0 +1,6 @@
+if SHIELD_BAT43
+
+config ZMK_KEYBOARD_NAME
+    default "Skretch"
+
+endif
