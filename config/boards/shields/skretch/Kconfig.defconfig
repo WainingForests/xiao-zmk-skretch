@@ -1,6 +1,6 @@
 if SHIELD_skretch
 
 config ZMK_KEYBOARD_NAME
-    default "skretch"
+    default "Skretch"
 
 endif
